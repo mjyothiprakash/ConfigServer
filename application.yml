@@ -1,0 +1,3 @@
+user:
+  config:
+    url: http://localhost:8080/user-config/getAllUsers
